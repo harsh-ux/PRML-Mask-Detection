@@ -8,15 +8,15 @@
 * [Pandas](https://pandas.pydata.org/) - Python Data Manipulation library used
 
 ## Code Structure 
-1. mask.ipynb - This is the main file with all the data preprocessing and Machine learning and Deep Learning Models.
-  a. Installing libraries and Dependencies
-  b. Importing dataset
-  c. Data preprocessing - Basic data information, cleaning and transforming the data
-  d. Dividing into test and train and transforming using Count Vectorise
-  e. Applying Machine Learning models
-  f. Applying Deep learning Models
-  g. Cross-validation
-  h. Application on Real world Data
+Mask.ipynb - This is the main file with all the data preprocessing and Machine learning and Deep Learning Models.
+  - Installing libraries and Dependencies
+  - Importing dataset
+  - Data preprocessing - Basic data information, cleaning and transforming the data
+  - Dividing into test and train and transforming using Count Vectorise
+  - Applying Machine Learning models
+  - Applying Deep learning Models
+  - Cross-validation
+  - Application on Real world Data
 
 ## Collaborators
 |Name|Year|Branch|
