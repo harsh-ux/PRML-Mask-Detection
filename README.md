@@ -11,8 +11,8 @@
 Mask.ipynb - This is the main file with all the data preprocessing and Machine learning and Deep Learning Models.
   - Installing libraries and Dependencies
   - Importing dataset
-  - Data preprocessing - Basic data information, cleaning and transforming the data
-  - Dividing into test and train and transforming using Count Vectorise
+  - Data preprocessing - Basic data information, cleaning and transforming the data using augmentations and adding noise
+  - Dividing into test and train datasets
   - Applying Machine Learning models
   - Applying Deep learning Models
   - Cross-validation
